@@ -1,0 +1,53 @@
+{
+  "common": {
+    "dashboard": "डॅशबोर्ड",
+    "rooms": "उपलब्ध खोल्या",
+    "bookings": "माझे बुकिंग",
+    "special_requests": "विशेष सेवा",
+    "emergency": "आणीबाणी",
+    "profile": "प्रोफाइल",
+    "logout": "लॉगआउट",
+    "save": "बदल जतन करा",
+    "cancel": "रद्द करा",
+    "loading": "लोड होत आहे...",
+    "search": "खोल्या, सेवा शोधा...",
+    "welcome": "परत स्वागत आहे"
+  },
+  "dashboard": {
+    "banner_title": "परत स्वागत आहे, {{name}}! 👋",
+    "banner_subtitle": "अँटीग्रॅव्हिटी हॉटेल्समध्ये तुमच्या लक्झरी मुक्कामाची प्रतीक्षा आहे।",
+    "active_bookings": "सक्रिय बुकिंग",
+    "reward_points": "रिवॉर्ड पॉइंट्स",
+    "total_stays": "एकूण मुक्काम",
+    "upcoming": "आगामी आरक्षण",
+    "quick_actions": "त्वरित कृती",
+    "book_room": "नवीन खोली बुक करा",
+    "request_service": "सेवेची विनंती करा"
+  },
+  "rooms": {
+    "title": "उपलब्ध खोल्या",
+    "subtitle": "आमच्या आलिशान आणि मानक खोल्यांची विस्तृत श्रेणी पहा।",
+    "filters": "फिल्टर्स",
+    "all_categories": "सर्व श्रेणी",
+    "all_ac": "सर्व एसी प्रकार",
+    "all_prices": "सर्व किमती",
+    "book_now": "आता बुक करा",
+    "available": "उपलब्ध",
+    "full": "पूर्ण"
+  },
+  "payment": {
+    "title": "तुमचे पेमेंट पूर्ण करा",
+    "summary": "बुकिंग सारांश",
+    "total": "एकूण रक्कम",
+    "card_details": "कार्ड तपशील",
+    "pay_now": "आता पैसे द्या",
+    "success": "पेमेंट यशस्वी!"
+  },
+  "emergency": {
+    "title": "आणीबाणी मदत",
+    "alert_medical": "वैद्यकीय आणीबाणी",
+    "alert_fire": "आग आणीबाणी",
+    "alert_security": "सुरक्षा आणीबाणी",
+    "hotline": "थेट हॉटलाईन"
+  }
+}

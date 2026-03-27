@@ -1,0 +1,53 @@
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "rooms": "Available Rooms",
+    "bookings": "My Bookings",
+    "special_requests": "Special Services",
+    "emergency": "Emergency",
+    "profile": "Profile",
+    "logout": "Logout",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "search": "Search for rooms, services...",
+    "welcome": "Welcome back"
+  },
+  "dashboard": {
+    "banner_title": "Welcome back, {{name}}! 👋",
+    "banner_subtitle": "Your luxury stay at Antigravity Hotels awaits.",
+    "active_bookings": "Active Bookings",
+    "reward_points": "Reward Points",
+    "total_stays": "Total Stays",
+    "upcoming": "Upcoming Reservation",
+    "quick_actions": "Quick Actions",
+    "book_room": "Book New Room",
+    "request_service": "Request Service"
+  },
+  "rooms": {
+    "title": "Available Rooms",
+    "subtitle": "Explore our wide range of luxury and standard rooms.",
+    "filters": "Filters",
+    "all_categories": "All Categories",
+    "all_ac": "All AC Types",
+    "all_prices": "All Prices",
+    "book_now": "Book Now",
+    "available": "Available",
+    "full": "Full"
+  },
+  "payment": {
+    "title": "Complete Your Payment",
+    "summary": "Booking Summary",
+    "total": "Total Amount",
+    "card_details": "Card Details",
+    "pay_now": "Pay Now",
+    "success": "Payment Successful!"
+  },
+  "emergency": {
+    "title": "Emergency Assistance",
+    "alert_medical": "Medical Emergency",
+    "alert_fire": "Fire Emergency",
+    "alert_security": "Security Emergency",
+    "hotline": "Direct Hotline"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "welcome": "Welcome to Our Hotel",
+  "home_tagline": "Your comfort is our priority",
+  "enjoy_stay": "Enjoy a relaxing stay with us",
+  "best_rooms": "We offer the best rooms at great prices",
+
+  "rooms_available": "Available Rooms",
+  "deluxe_room": "Deluxe Room",
+  "ac_room": "AC Room",
+  "non_ac_room": "Non-AC Room",
+  "rs2000": "₹2000/day",
+  "rs1500": "₹1500/day",
+  "rs1000": "₹1000/day",
+  "book_now": "Book Now",
+
+  "my_bookings": "My Bookings",
+  "booking_history_empty": "No bookings found",
+
+  "emergency_help": "Emergency Assistance",
+  "describe_emergency": "Describe your emergency...",
+  "send_request": "Send Request",
+  "emergency_sent": "Emergency request sent successfully!",
+
+  "special_request": "Special Request",
+  "enter_request": "Enter your special request...",
+  "request_sent": "Special request submitted!",
+
+  "submit": "Submit",
+
+  "user_dashboard": "User Dashboard",
+  "view_profile": "View Profile",
+
+  "admin_dashboard": "Admin Dashboard",
+  "users": "Users",
+  "bookings": "Bookings",
+  "emergency": "Emergency",
+  "specialRequest": "Special Requests",
+  "loading_data": "Loading data...",
+  
+  "error_try_again": "Something went wrong, try again!"
+}
